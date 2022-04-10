@@ -1,0 +1,5 @@
+C:/Users/Augusto/Desktop/lista1/lista-1-AugustoViniciusCarvalho/minmax/build/CMakeFiles/func.dir
+C:/Users/Augusto/Desktop/lista1/lista-1-AugustoViniciusCarvalho/minmax/build/CMakeFiles/all_tests.dir
+C:/Users/Augusto/Desktop/lista1/lista-1-AugustoViniciusCarvalho/minmax/build/CMakeFiles/run_tests.dir
+C:/Users/Augusto/Desktop/lista1/lista-1-AugustoViniciusCarvalho/minmax/build/CMakeFiles/edit_cache.dir
+C:/Users/Augusto/Desktop/lista1/lista-1-AugustoViniciusCarvalho/minmax/build/CMakeFiles/rebuild_cache.dir

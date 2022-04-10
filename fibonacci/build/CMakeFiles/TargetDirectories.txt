@@ -1,0 +1,5 @@
+C:/Users/Augusto/Desktop/lista1/lista-1-AugustoViniciusCarvalho/fibonacci/build/CMakeFiles/func.dir
+C:/Users/Augusto/Desktop/lista1/lista-1-AugustoViniciusCarvalho/fibonacci/build/CMakeFiles/all_tests.dir
+C:/Users/Augusto/Desktop/lista1/lista-1-AugustoViniciusCarvalho/fibonacci/build/CMakeFiles/run_tests.dir
+C:/Users/Augusto/Desktop/lista1/lista-1-AugustoViniciusCarvalho/fibonacci/build/CMakeFiles/edit_cache.dir
+C:/Users/Augusto/Desktop/lista1/lista-1-AugustoViniciusCarvalho/fibonacci/build/CMakeFiles/rebuild_cache.dir
