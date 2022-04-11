@@ -1,0 +1,4 @@
+C:/Users/Augusto/Desktop/lista1/lista-1-AugustoViniciusCarvalho/ponto_em_retangulo_2/build/CMakeFiles/program.dir
+C:/Users/Augusto/Desktop/lista1/lista-1-AugustoViniciusCarvalho/ponto_em_retangulo_2/build/CMakeFiles/verify.dir
+C:/Users/Augusto/Desktop/lista1/lista-1-AugustoViniciusCarvalho/ponto_em_retangulo_2/build/CMakeFiles/edit_cache.dir
+C:/Users/Augusto/Desktop/lista1/lista-1-AugustoViniciusCarvalho/ponto_em_retangulo_2/build/CMakeFiles/rebuild_cache.dir
